@@ -1,0 +1,23 @@
+{
+  "name": "js-and-sass",
+  "version": "1.0.0",
+  "description": "2022-03-18 vanilla js and sass learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-mix": "^6.0.43",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "node-modules": "^1.0.1",
+    "node-sass": "^6.0.1"
+  }
+}
